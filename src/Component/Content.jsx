@@ -9,7 +9,7 @@ const Content = () => {
   const Beltei_School = "https://web.facebook.com/belteischool?_rdc=1&_rdr";
   const YouTube = "https://www.youtube.com/user/BELTEIGROUP";
   return (
-    <div className="p-2 mt-5">
+    <div className="Content p-2 mt-5">
       <img src={GradeA} className="w-100" alt="" />
       <img src={content} className="w-100 mt-2" alt="" />
       <img src={content1} className="w-100 mt-2" alt="" />

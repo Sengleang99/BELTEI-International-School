@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Baner from "./Component/Baner";
 import Branch from "./Component/Branch";
-import Content from "./Component/content";
+import Content from "./Component/Content";
 import MessageFPD from "./Component/Message";
 import Purpose from "./Component/Purpose";
 import SideBarRight from "./Component/SideBarRight";
